@@ -1,0 +1,4 @@
+июн. 09, 2023 4:36:49 PM Lection002.Ex005_Logger main
+WARNING: Тестовое логирование 1
+июн. 09, 2023 4:36:49 PM Lection002.Ex005_Logger main
+INFO: Тестовое логирование 2
