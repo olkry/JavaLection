@@ -1,3 +1,5 @@
+package Lection003.src;
+
 // package Lesson_03;
 
 public class Ex001 {
