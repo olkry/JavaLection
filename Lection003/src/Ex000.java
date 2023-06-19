@@ -1,4 +1,4 @@
-package Lection003.src;
+// package Lection003.src;
 
 // package Lection003;
 public class Ex000 {

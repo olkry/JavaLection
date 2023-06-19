@@ -1,4 +1,4 @@
-package Lection003.src;
+// package Lection003.src;
 
 // package Lesson_03;
 
@@ -17,8 +17,8 @@ public class Ex006 {
         list1.add('y');
         System.out.println(list1);
         list1.remove(1); // java.lang.UnsupportedOperationException
-        List<Character> list2 = List.copyOf(list1);
-        System.out.println(list2);
+        // List<Character> list2 = List.copyOf(list1);
+        // System.out.println(list2);
         
     }
 }
